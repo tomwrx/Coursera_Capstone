@@ -1,1 +1,1 @@
-This repo is going to ne used for finishing IBM Data Science Proffesional Certificate Capstone project.
+This repo is going to be used for finishing IBM Data Science Proffesional Certificate Capstone project.
